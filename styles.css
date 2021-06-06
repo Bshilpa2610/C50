@@ -8,6 +8,17 @@
     color: white;
 }
 
+.bodyimg{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.onbodyimg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 body{
     background-color:whitesmoke;
